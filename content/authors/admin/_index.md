@@ -71,6 +71,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/aegirsh
+  - icon: etsy
+    icon_pack: fab
+    link:  https://elibrary.ru/ 
+  - icon: orcid
+    icon_pack: fab
+    link:   https://orcid.org/
+  - icon: mendeley
+    icon_pack: fab
+    link:  https://www.mendeley.com/ 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
